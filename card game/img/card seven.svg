@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="38.7549mm" height="54.1866mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 328.75 459.65"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#18B35E;stroke-width:0.65;stroke-miterlimit:10}
+    .fil1 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil0 {fill:#CFD1D2;fill-rule:nonzero}
+    .fil2 {fill:#18B35E;fill-rule:nonzero}
+    .fil3 {fill:#2B6A46;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2860880576976">
+   <g>
+    <path class="fil0" d="M36.31 459.65c-19.42,0.03 -35.26,-15.48 -35.31,-34.57l-1 -390.3c-0.06,-19.21 15.77,-34.81 35.26,-34.78l257.93 0.48c19.41,0.04 35.2,15.65 35.2,34.82l0 389.47c0,19.05 -15.73,34.55 -35.08,34.58l-257.01 0.3z"/>
+    <path class="fil1" d="M39.81 459.16c-19.16,0 -34.76,-15.55 -34.76,-34.65l0 -389.38c0,-19.1 15.6,-34.64 34.76,-34.64l254.18 0c19.17,0 34.76,15.53 34.76,34.64l0 389.38c0,19.1 -15.59,34.65 -34.76,34.65l-254.18 0z"/>
+   </g>
+   <g>
+    <polygon class="fil2 str0" points="222.55,38.97 189.62,80.55 222.55,122.13 255.48,80.55 "/>
+    <polygon class="fil3" points="222.55,122.13 222.55,122.13 222.33,121.85 222.33,39.25 222.55,38.97 255.48,80.55 "/>
+    <polygon class="fil2 str0" points="104.27,185.97 137.19,227.54 104.27,269.13 71.33,227.54 "/>
+    <polygon class="fil3" points="104.27,269.13 71.33,227.54 104.27,185.97 104.48,186.25 104.48,268.85 "/>
+    <polygon class="fil2 str0" points="161.1,115.68 194.01,157.25 161.1,198.84 128.17,157.25 "/>
+    <polygon class="fil3" points="161.1,198.84 128.17,157.25 161.1,115.68 161.31,115.96 161.31,198.55 "/>
+    <polygon class="fil2" points="104.27,332.96 137.19,374.53 104.27,416.11 71.33,374.53 "/>
+    <polygon class="fil1" points="104.27,416.11 71.33,374.53 104.27,416.11 104.48,415.84 104.48,415.85 "/>
+    <polygon class="fil3" points="104.27,416.11 71.33,374.53 104.27,332.96 104.48,333.24 104.48,415.84 "/>
+    <polygon class="fil2 str0" points="104.27,38.97 137.19,80.55 104.27,122.13 71.33,80.55 "/>
+    <polygon class="fil3" points="104.27,122.13 71.33,80.55 104.27,38.97 104.47,39.25 104.47,121.85 "/>
+    <polygon class="fil2 str0" points="222.55,185.97 189.62,227.54 222.55,269.13 255.48,227.54 "/>
+    <polygon class="fil1" points="222.33,186.25 222.33,186.25 222.55,185.97 "/>
+    <polygon class="fil3" points="222.55,269.13 222.55,269.13 222.33,268.85 222.33,186.25 222.55,185.97 255.48,227.54 "/>
+    <polygon class="fil2 str0" points="222.55,332.96 189.62,374.53 222.55,416.11 255.48,374.53 "/>
+    <polygon class="fil1" points="222.55,416.11 222.33,415.85 222.33,415.83 222.55,416.11 255.48,374.53 "/>
+    <polygon class="fil3" points="222.55,416.11 222.33,415.83 222.33,333.24 222.55,332.96 255.48,374.53 "/>
+    <polygon class="fil2 str0" points="34.14,107.46 24.55,95.35 34.14,83.25 43.72,95.35 "/>
+    <path class="fil1" d="M34.14 107.46l-0.07 -0.1 0 0 0.07 0.1 9.58 -12.11 -9.58 12.11zm-0.07 -24.11l0 -0.01 0.07 -0.09 -0.07 0.1z"/>
+    <polygon class="fil3" points="34.14,107.46 34.07,107.36 34.07,83.34 34.14,83.25 43.72,95.35 "/>
+    <polygon class="fil2 str0" points="294.74,351.77 304.32,363.87 294.74,375.97 285.15,363.87 "/>
+    <polygon class="fil1" points="294.8,351.85 294.74,351.77 294.8,351.84 "/>
+    <polygon class="fil3" points="294.74,375.97 285.15,363.87 294.74,351.77 294.8,351.85 294.8,375.89 "/>
+    <polygon class="fil3" points="23.33,35.91 48.23,35.91 34.87,70.16 28.41,70.16 39.9,41.68 22.96,41.68 "/>
+    <polygon class="fil3" points="305.67,422.64 280.8,423.74 292.63,388.94 299.09,388.65 288.87,417.61 305.79,416.86 "/>
+   </g>
+  </g>
+ </g>
+</svg>
